@@ -2,6 +2,7 @@
 <h1>Installlation Procedure</h1>
 Clone repository and run composer update <br>
 Create database name "gabriel_nzete"<br>
+Change the .env.example file to .env  within it create database name "gabriel_nzete"
 Run migragion "Php artisan migrate"
 
 <h1>ICE and Fire Api</h1>
